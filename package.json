@@ -1,0 +1,27 @@
+{
+  "name": "backend-zero",
+  "version": "1.0.0",
+  "description": "Nguyen Quang Huy backend zero",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NguyenQuangHuy2852/nodejs-backend-zero.git"
+  },
+  "keywords": [
+    "nodejs",
+    "backend"
+  ],
+  "author": "Huy Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NguyenQuangHuy2852/nodejs-backend-zero/issues"
+  },
+  "homepage": "https://github.com/NguyenQuangHuy2852/nodejs-backend-zero#readme",
+  "dependencies": {
+    "express": "^5.0.1"
+  }
+}
